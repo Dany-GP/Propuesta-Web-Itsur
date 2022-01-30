@@ -14,6 +14,10 @@
     
 }
 
+#a{
+	text-decoration: none !important;
+}
+
 .a{
     color: black !important;
 }
@@ -56,4 +60,22 @@
 	position: absolute;
 	cursor: pointer;
 	z-index: 100;
+}
+
+.link{
+	text-decoration: none !important;
+}
+
+.nav-item:hover{
+	color: #eee !important;
+	background-color: #1d3a6b;
+	border-radius: 0.5rem;
+}
+
+.nav-link{
+	color: rgba(0, 0, 0, 0.452) !important;
+}
+
+.nav-link:hover{
+	color: #eee !important ;
 }
