@@ -106,3 +106,11 @@
 .bg-lights{
 	background-color: #d1cfcf !important;
 }
+
+*{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.fs-4{
+	font-family: 'Montserrat', sans-serif !important;
+}
