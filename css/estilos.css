@@ -20,6 +20,17 @@
     
 }
 
+
+.fw-light1{
+    font-family: 'Roboto', sans-serif;
+	color: rgba(0, 0, 0, 0.274);
+	/*font-family: 'Roboto Condensed', sans-serif;*/
+}
+.fw-light{
+    font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto Condensed', sans-serif;*/
+}
+
 #a{
 	text-decoration: none !important;
 }
@@ -106,7 +117,6 @@
 .bg-lights{
 	background-color: #d1cfcf !important;
 }
-
 *{
 	font-family: 'Josefin Sans', sans-serif;
 }
