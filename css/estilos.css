@@ -1,3 +1,9 @@
+.contenedor{
+	background-color: #3B8C2E !important;
+	border-radius: 0.3rem;
+	color: #eee !important;
+}
+
 #slider{
 	margin-top: 10px;	
 }
@@ -69,6 +75,7 @@
 .nav-item:hover{
 	color: #eee !important;
 	background-color: #1d3a6b;
+	border-color: #F2B705 !important;
 	border-radius: 0.5rem;
 }
 
@@ -78,4 +85,24 @@
 
 .nav-link:hover{
 	color: #eee !important ;
+}
+
+.dropdown-menu{
+	background-color: #F2B705 !important;
+}
+
+.d-flex{
+	align-items: center	;
+}
+
+.text-whites{
+	color: #eff0f1d2 !important;
+}
+
+.dropdown-item:hover{
+	background-color: #f3d26e !important;
+}
+
+.bg-lights{
+	background-color: #d1cfcf !important;
 }
